@@ -1,0 +1,16 @@
+{
+  "name": "anyabot",
+  "version": "1.0.0",
+  "description": "Anyaa bot by shevo",
+  "license": "ISC",
+  "author": "Shevo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "anyabot"
+  },
+  "dependencies": {
+    "discord.js": "^14.28.1"
+  },
+  "devDependencies": {}
+}
